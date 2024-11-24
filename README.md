@@ -1,2 +1,2 @@
 # AspnetCoreStackExchangeRedisAPI
- AspnetCoreStackExchangeRedisAPI Basics
+ AspnetCoreStackExchangeRedisAPI Basics - based on Fatih Çakıroğlu Udemy course
